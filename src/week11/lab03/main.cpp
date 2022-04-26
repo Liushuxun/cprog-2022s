@@ -4,7 +4,7 @@
 using namespace std;
 
 // add your code here
-
+void  drawLine(int n)
 // -----vv----- 不得修改『以下』的程式 -----vv-----
 
 int main()
